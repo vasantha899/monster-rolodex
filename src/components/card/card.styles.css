@@ -9,6 +9,8 @@
     backface-visibility: hidden;
     transform: translateZ(0);
     transition: transform 0.25s ease-out;
+    height: 300px;
+    width: 200px;
 }
 .card-container:hover{
     transform: scale(1.05);
